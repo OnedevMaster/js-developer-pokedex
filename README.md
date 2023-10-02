@@ -1,2 +1,2 @@
 # Trilha JS Developer - Pokedex
-# Alteração feita adicionando mais dois elementos em cada chamada.
+# Alterando o limite de visualizações de 10 para 12 em cada requisição.
